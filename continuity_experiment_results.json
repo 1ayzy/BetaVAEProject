@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "rot_step": 1,
+      "rot_values": 40,
+      "mse": 47.77012,
+      "disentanglement_accuracy": 0.318
+    },
+    {
+      "rot_step": 2,
+      "rot_values": 20,
+      "mse": 41.294023,
+      "disentanglement_accuracy": 0.246
+    },
+    {
+      "rot_step": 4,
+      "rot_values": 10,
+      "mse": 42.268792,
+      "disentanglement_accuracy": 0.283
+    },
+    {
+      "rot_step": 8,
+      "rot_values": 5,
+      "mse": 46.172491,
+      "disentanglement_accuracy": 0.271
+    }
+  ],
+  "total_time_min": 5.3
+}

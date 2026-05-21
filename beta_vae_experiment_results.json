@@ -1,0 +1,45 @@
+{
+  "results": [
+    {
+      "beta": 0.1,
+      "mse": 36.489177,
+      "disentanglement_accuracy": 0.293
+    },
+    {
+      "beta": 0.5,
+      "mse": 34.074677,
+      "disentanglement_accuracy": 0.27
+    },
+    {
+      "beta": 1.0,
+      "mse": 38.374277,
+      "disentanglement_accuracy": 0.313
+    },
+    {
+      "beta": 2.0,
+      "mse": 39.780029,
+      "disentanglement_accuracy": 0.324
+    },
+    {
+      "beta": 4.0,
+      "mse": 45.743779,
+      "disentanglement_accuracy": 0.295
+    },
+    {
+      "beta": 8.0,
+      "mse": 59.456125,
+      "disentanglement_accuracy": 0.336
+    },
+    {
+      "beta": 16.0,
+      "mse": 72.72514,
+      "disentanglement_accuracy": 0.256
+    },
+    {
+      "beta": 32.0,
+      "mse": 89.637087,
+      "disentanglement_accuracy": 0.355
+    }
+  ],
+  "total_time_min": 9.6
+}

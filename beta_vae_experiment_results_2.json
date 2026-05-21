@@ -1,0 +1,45 @@
+{
+  "results": [
+    {
+      "beta_norm": 0.5,
+      "mse": 211.177514,
+      "disentanglement_accuracy": 0.424
+    },
+    {
+      "beta_norm": 1,
+      "mse": 389.451213,
+      "disentanglement_accuracy": 0.34
+    },
+    {
+      "beta_norm": 2,
+      "mse": 627.188691,
+      "disentanglement_accuracy": 0.289
+    },
+    {
+      "beta_norm": 4,
+      "mse": 627.337299,
+      "disentanglement_accuracy": 0.296
+    },
+    {
+      "beta_norm": 8,
+      "mse": 627.356824,
+      "disentanglement_accuracy": 0.254
+    },
+    {
+      "beta_norm": 16,
+      "mse": 627.055445,
+      "disentanglement_accuracy": 0.285
+    },
+    {
+      "beta_norm": 32,
+      "mse": 627.000977,
+      "disentanglement_accuracy": 0.193
+    },
+    {
+      "beta_norm": 64,
+      "mse": 627.045156,
+      "disentanglement_accuracy": 0.316
+    }
+  ],
+  "total_time_min": 33.6
+}
